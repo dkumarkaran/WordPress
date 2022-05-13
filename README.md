@@ -7,3 +7,5 @@ curl -L https://github.com/docker/compose/releases/download/1.24.1/docker-compos
  chmod +x /usr/local/bin/docker-compose
 
 docker-compose --version
+
+docker-compose -d up
